@@ -1,2 +1,1 @@
-def hi():
-    return 'Hello,world!'
+这是一条测试内容。。。
